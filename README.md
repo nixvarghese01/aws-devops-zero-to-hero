@@ -1,3 +1,7 @@
+> **📌 Notes from Nixon Varghese**
+> Forked from [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero) as a reference for **AWS DevOps services in 30 days**. Refresher alongside my AWS DevOps Engineer Professional certification.
+> All credit for the content goes to the original authors.
+
 # aws-devops-zero-to-hero
 
 Complete YouTube playlist - https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze
